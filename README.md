@@ -1,4 +1,4 @@
- 📊 HR Analytics Dashboard
+# 📊 HR Analytics Dashboard
 
 This project showcases an interactive HR Analytics Dashboard built using data visualization tools like 'Tableau' to provide meaningful insights into employee data.
 
